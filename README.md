@@ -1,10 +1,10 @@
 <div align="center">
-<img src="https://i.imgur.com/4Xau0yo.png" width="15%"/></a>
-  <h1>CUEBEE</h1>
+  
+  <h1>Minecraft Java+Bedrock Server</h1>
 
-  <h3>Version 1.0.0</h3>
+  <h3>MC Server Version 1.17.1</h3>
 
-  <h4>Created by <a href="https://discord.io/LIMYAW/">Mashwishi</a> | Powered by <a href="https://geysermc.org/">Geysermc</a> & <a href="https://github.com/PaperMC">PaperMC</a></h4>
+  <h4>Template Created by <a href="https://discord.io/LIMYAW/">Mashwishi</a> | Powered by <a href="https://geysermc.org/">Geysermc</a> & <a href="https://github.com/PaperMC">PaperMC</a></h4>
 
  
 <!-- [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B14A4MU) -->
@@ -14,7 +14,6 @@
  <p align="center">
             <a href="https://ko-fi.com/mashwishi"> <img align="center" src="https://ko-fi.com/img/githubbutton_sm.svg" /></a>
           <br/><br/>
-            <a href="https://discord.gg/WAh8eaF2Qq"><img align="center" src="https://discordapp.com/api/guilds/779997243159216149/widget.png?style=banner2" alt="Discord Banner 2"/>    </a>
          </p>
 
 
@@ -31,9 +30,7 @@
 
 ---
 
-<h2 align="center">What is this Cuebee?</h2>
-
-<strong><a href="https://discord.io/LIMYAW">CUEBEE</a></strong> is a Pre-made Minecraft Server 1.17.1 that supports Java Edition and Bedrock Edition to play in one running server. Java(PC/Laptop) players can join Bedrock users playing at PC/Laptop, Mobile Device, PlayStation 4 and Nintendo Switch.
+<strong>A Pre-made Minecraft Server 1.17.1 that supports Java Edition and Bedrock Edition to play in one running server. Java(PC/Laptop) players can join Bedrock users playing at PC/Laptop, Mobile Device, PlayStation 4 and Nintendo Switch.
 
 <img src="https://i.imgur.com/LHTxVDB.jpg" width="100%"/>
 
@@ -70,7 +67,7 @@ This is how you will set-up and host your cross-version and cross-platform Minec
 ### Installation
 1. Clone the repo
    ```sh
-   git clone https://github.com/mashwishi/CUEBEE.git
+   git clone https://github.com/mashwishi/Minecraft-Server-Java-and-Bedrock-Support.git
    ```
 2. Configure run.bat and modify `5G` to your desire ram.
    ```bat
@@ -86,9 +83,9 @@ This is how you will set-up and host your cross-version and cross-platform Minec
 8. To edit the MOTD of your Bedrock Server open `config.yml` at `geyser` folder
    ```yml
     #Rename the motd1, motd2 and server-name strings
-    motd1: "Cuebee"
-    motd2: "A Java & Bedrock Server"
-    server-name: "Cuebee"
+    motd1: "A Minecraft server"
+    motd2: "Supports Java & Bedrock Server"
+    server-name: "myserver"
    ```
 9. Once every thing is done you can now start your service again to your panel or `start.bat` for self-hosting
 
@@ -102,11 +99,11 @@ This is how you will set-up and host your cross-version and cross-platform Minec
 
 ## Issue/Suggestions
 
-If met any issues, go [here](https://github.com/Mashwishi/CUEBEE/issues) to report bug and create new issue for supporting
+If met any issues, go [here](https://github.com/Mashwishi/Minecraft-Server-Java-and-Bedrock-Support/issues) to report bug and create new issue for supporting
 
 ## Github Repository
 
-CUEBEE Made by Mashwishi, project [Here](https://github.com/Mashwishi/CUEBEE)
+Template Made by Mashwishi, project [Here](https://github.com/Mashwishi/Minecraft-Server-Java-and-Bedrock-Support)
 
 ---
 
@@ -122,13 +119,13 @@ CUEBEE Made by Mashwishi, project [Here](https://github.com/Mashwishi/CUEBEE)
 [donate-image]: https://i.imgur.com/R2SxfKG.png
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[contributors-shield]: https://img.shields.io/github/contributors/mashwishi/CUEBEE.svg?style=for-the-badge
-[contributors-url]: https://github.com/mashwishi/CUEBEE/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/mashwishi/CUEBEE.svg?style=for-the-badge
-[forks-url]: https://github.com/mashwishi/CUEBEE/network/members
-[stars-shield]: https://img.shields.io/github/stars/mashwishi/CUEBEE.svg?style=for-the-badge
-[stars-url]: https://github.com/mashwishi/CUEBEE/stargazers
-[issues-shield]: https://img.shields.io/github/issues/mashwishi/CUEBEE.svg?style=for-the-badge
-[issues-url]: https://github.com/mashwishi/CUEBEE/issues
-[license-shield]: https://img.shields.io/github/license/mashwishi/CUEBEE.svg?style=for-the-badge
-[license-url]: https://github.com/mashwishi/CUEBEE/blob/master/LICENSE
+[contributors-shield]: https://img.shields.io/github/contributors/mashwishi/Minecraft-Server-Java-and-Bedrock-Support.svg?style=for-the-badge
+[contributors-url]: https://github.com/mashwishi/Minecraft-Server-Java-and-Bedrock-Support/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/mashwishi/Minecraft-Server-Java-and-Bedrock-Support.svg?style=for-the-badge
+[forks-url]: https://github.com/mashwishi/Minecraft-Server-Java-and-Bedrock-Support/network/members
+[stars-shield]: https://img.shields.io/github/stars/mashwishi/Minecraft-Server-Java-and-Bedrock-Support.svg?style=for-the-badge
+[stars-url]: https://github.com/mashwishi/Minecraft-Server-Java-and-Bedrock-Support/stargazers
+[issues-shield]: https://img.shields.io/github/issues/mashwishi/Minecraft-Server-Java-and-Bedrock-Support.svg?style=for-the-badge
+[issues-url]: https://github.com/mashwishi/Minecraft-Server-Java-and-Bedrock-Support/issues
+[license-shield]: https://img.shields.io/github/license/mashwishi/Minecraft-Server-Java-and-Bedrock-Support.svg?style=for-the-badge
+[license-url]: https://github.com/mashwishi/Minecraft-Server-Java-and-Bedrock-Support/blob/master/LICENSE
