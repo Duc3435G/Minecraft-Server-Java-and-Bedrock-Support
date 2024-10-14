@@ -2,7 +2,7 @@
   
   <h1>Minecraft Java+Bedrock Server</h1>
 
-  <h3>MC Server Version 1.17.1</h3>
+  <h3>MC Server Version 1.21.1</h3>
 
   <h4>Template Created by <a href="https://discord.io/LIMYAW/">Mashwishi</a> | Powered by <a href="https://geysermc.org/">Geysermc</a> & <a href="https://github.com/PaperMC">PaperMC</a></h4>
 
@@ -30,7 +30,7 @@
 
 ---
 
-<strong>A Pre-made Minecraft Server 1.17.1 that supports Java Edition and Bedrock Edition to play in one running server. Java(PC/Laptop) players can join Bedrock users playing at PC/Laptop, Mobile Device, PlayStation 4 and Nintendo Switch.
+<strong>A Pre-made Minecraft Server 1.21.1 that supports Java Edition and Bedrock Edition to play in one running server. Java(PC/Laptop) players can join Bedrock users playing at PC/Laptop, Mobile Device, PlayStation 4 and Nintendo Switch.
 
 <img src="https://i.imgur.com/LHTxVDB.jpg" width="100%"/>
 
@@ -60,19 +60,21 @@ This is how you will set-up and host your cross-version and cross-platform Minec
 
 ### Requirements
 
-- Java Version 16 (Important)
-- Atleast 5GB of Ram (Minimum for 1.17.x)
-- Quad-Core CPU/Processor or higher (4 Cores)
+- Java Version 21 (Important for Minecraft 1.21.x and beyond)
+- At least 6GB of RAM (Recommended minimum for 1.21.x, more is better for performance and plugins)
+- Quad-Core CPU/Processor or higher (4 cores minimum, 6+ cores recommended for optimal performance)
+- SSD Storage (Recommended for faster world loading and smoother performance)
+- Good Network Connection (Especially important for multiplayer servers)
 
 ### Installation
 1. Clone the repo
    ```sh
    git clone https://github.com/mashwishi/Minecraft-Server-Java-and-Bedrock-Support.git
    ```
-2. Configure run.bat and modify `5G` to your desire ram.
+2. Configure run.bat and modify `6G` to your desire ram.
    ```bat
     :: IGNORE THIS IF YOU'RE NOT SELF-HOSTING, KINDLY DON'T INCLUDE THIS FILE!
-    java -Xmx5G -Xms5G -jar paper.jar nogui
+    java -Xmx6G -Xms6G -jar paper.jar nogui
     PAUSE
    ```
 3. After that kindly run `start.bat` file. This will start your minecraft server
